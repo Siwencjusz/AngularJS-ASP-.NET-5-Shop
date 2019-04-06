@@ -1,0 +1,182 @@
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Shop.Web.dll.config
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Shop.Web.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Shop.Web.pdb
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.AutoMapper.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.Castle.Log4Net.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.Web.Api.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.Web.Common.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.Web.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.Web.Mvc.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Antlr3.Runtime.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\AutoMapper.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Castle.Core.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Castle.Facilities.Logging.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Castle.Windsor.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\EntityFramework.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\EntityFramework.DynamicFilters.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\EntityFramework.SqlServer.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\log4net.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Newtonsoft.Json.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Nito.AsyncEx.Concurrent.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Nito.AsyncEx.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Nito.AsyncEx.Enlightenment.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Shop.Application.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Shop.Core.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Shop.EntityFramework.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Shop.WebApi.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\System.Collections.Immutable.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\System.Linq.Dynamic.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\System.Net.Http.Formatting.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\System.Web.Helpers.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\System.Web.Http.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\System.Web.Http.WebHost.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\System.Web.Mvc.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\System.Web.Optimization.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\System.Web.Razor.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\System.Web.WebPages.Deployment.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\System.Web.WebPages.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\System.Web.WebPages.Razor.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\WebGrease.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.EntityFramework.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.EntityFramework.Common.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Shop.Application.pdb
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Shop.Core.pdb
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Shop.EntityFramework.pdb
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Shop.WebApi.pdb
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.pdb
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.AutoMapper.pdb
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.AutoMapper.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.Castle.Log4Net.pdb
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.Castle.Log4Net.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.Web.pdb
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.Web.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.Web.Api.pdb
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.Web.Api.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.Web.Common.pdb
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.Web.Common.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.Web.Mvc.pdb
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.Web.Mvc.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Antlr3.Runtime.pdb
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\AutoMapper.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Castle.Core.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Castle.Facilities.Logging.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Castle.Windsor.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\EntityFramework.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\EntityFramework.SqlServer.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\log4net.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Newtonsoft.Json.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Nito.AsyncEx.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Nito.AsyncEx.Concurrent.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Nito.AsyncEx.Enlightenment.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\System.Collections.Immutable.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\System.Net.Http.Formatting.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\System.Web.Helpers.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\System.Web.Http.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\System.Web.Http.WebHost.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\System.Web.Mvc.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\System.Web.Optimization.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\System.Web.Razor.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\System.Web.WebPages.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\System.Web.WebPages.Deployment.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\System.Web.WebPages.Razor.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.EntityFramework.pdb
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.EntityFramework.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.EntityFramework.Common.pdb
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\bin\Abp.EntityFramework.Common.xml
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\obj\Debug\Shop.Web.csprojResolveAssemblyReference.cache
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\obj\Debug\Shop.Web.dll
+E:\VISUAL PROJEKTY\PROJEKT BILENIUM\Shop.Web\obj\Debug\Shop.Web.pdb
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Shop.Web.dll.config
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Shop.Web.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Shop.Web.pdb
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.AutoMapper.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.Castle.Log4Net.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.Web.Api.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.Web.Common.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.Web.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.Web.Mvc.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Antlr3.Runtime.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\AutoMapper.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Castle.Core.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Castle.Facilities.Logging.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Castle.Windsor.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\EntityFramework.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\EntityFramework.DynamicFilters.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\log4net.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Newtonsoft.Json.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Nito.AsyncEx.Concurrent.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Nito.AsyncEx.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Nito.AsyncEx.Enlightenment.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Shop.Application.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Shop.Core.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Shop.EntityFramework.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Shop.WebApi.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\System.Collections.Immutable.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\System.Linq.Dynamic.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\System.Web.Helpers.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\System.Web.Http.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\System.Web.Mvc.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\System.Web.Optimization.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\System.Web.Razor.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\System.Web.WebPages.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\WebGrease.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.EntityFramework.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.EntityFramework.Common.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Shop.Application.pdb
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Shop.Core.pdb
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Shop.EntityFramework.pdb
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Shop.WebApi.pdb
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.pdb
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.AutoMapper.pdb
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.AutoMapper.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.Castle.Log4Net.pdb
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.Castle.Log4Net.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.Web.pdb
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.Web.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.Web.Api.pdb
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.Web.Api.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.Web.Common.pdb
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.Web.Common.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.Web.Mvc.pdb
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.Web.Mvc.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\AutoMapper.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Castle.Core.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Castle.Facilities.Logging.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Castle.Windsor.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\EntityFramework.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\log4net.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Newtonsoft.Json.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Nito.AsyncEx.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Nito.AsyncEx.Concurrent.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Nito.AsyncEx.Enlightenment.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\System.Collections.Immutable.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\System.Web.Helpers.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\System.Web.Http.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\System.Web.Mvc.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\System.Web.Optimization.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\System.Web.Razor.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\System.Web.WebPages.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.EntityFramework.pdb
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.EntityFramework.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.EntityFramework.Common.pdb
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\bin\Abp.EntityFramework.Common.xml
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\obj\Debug\Shop.Web.csprojResolveAssemblyReference.cache
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\obj\Debug\Shop.Web.dll
+C:\Users\Atencjusz\Documents\Visual Studio 2015\Projects\JpProj\Patryk Jargieło PROJEKT BILLENNIUM\Shop.Web\obj\Debug\Shop.Web.pdb
